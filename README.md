@@ -14,4 +14,4 @@ Scikit-learn for machine learning algorithms
 NLTK for text preprocessing
 Streamlit for creating a web-based interface (if applicable)
 
-Datase5t Link - https://www.kaggle.com/c/fake-news/data?select=train.csv
+Dataset Link - https://www.kaggle.com/c/fake-news/data?select=train.csv
