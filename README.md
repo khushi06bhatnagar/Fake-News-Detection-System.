@@ -15,3 +15,21 @@ NLTK for text preprocessing
 Streamlit for creating a web-based interface (if applicable)
 
 Dataset Link - https://www.kaggle.com/c/fake-news/data?select=train.csv
+
+To Run the file following steps should be done -
+
+   1. open terminal and run -> pip install streamlit and if you are using python3 run -> pip3 install streamlit
+   2. Check If Streamlit is Installed
+Run this command:
+pip list | findstr streamlit  # For Windows
+pip list | grep streamlit     # For Mac/Linux
+If it's not listed, the installation failed.
+  3.  Run Your App by : streamlit run app.py
+
+
+
+
+
+      
+
+
